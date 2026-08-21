@@ -1,3 +1,5 @@
+<img src="robot.gif" align="right" width="150" alt="">
+
 # Hi, I'm Alston 👋
 
 Computer Science major at **UC Merced**, focused on **DevOps** — containers, CI/CD, and making deploys boring.
