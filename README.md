@@ -1,5 +1,3 @@
-<img src="jet.webp" width="640" alt="">
-
 # Hi, I'm Alston
 
 Computer Science major at **UC Merced**, focused on **DevOps**: containers, CI/CD, and making deploys boring.
@@ -27,7 +25,5 @@ I like building things end to end. A Next.js app with real payments. A Flask das
 ## Outside the terminal
 
 Video games, manga, and comics.
-
-<img src="robot.webp" width="640" alt="">
 
 Reach me at alstonbravo23@gmail.com
