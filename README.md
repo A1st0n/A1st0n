@@ -1,4 +1,4 @@
-<img src="robot.gif" width="100%" alt="">
+<img src="jet.gif" width="640" alt="">
 
 # Hi, I'm Alston
 
@@ -27,5 +27,7 @@ I like building things end to end. A Next.js app with real payments. A Flask das
 ## Outside the terminal
 
 Video games, manga, and comics.
+
+<img src="robot.gif" width="640" alt="">
 
 Reach me at alstonbravo23@gmail.com
