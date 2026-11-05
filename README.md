@@ -42,10 +42,13 @@
 
 ```bash
 $ whoami
-alston  ·  CS @ UC Merced  ·  DevOps: containers, CI/CD, making deploys boring
+alston
+CS @ UC Merced
+DevOps: containers, CI/CD, making deploys boring
 
 $ cat builds.txt
-I like building things end to end: real payments, live dashboards, ML on hardware.
+I build things end to end:
+real payments, live dashboards, ML on hardware.
 
 $ cat hobbies.txt
 video games · manga · comics
