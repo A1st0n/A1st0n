@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="jet-banner-v4.svg" width="640" alt="ASCII robot flying a jet through bokeh lights" />
+  <img src="jet-banner-v5.svg" width="640" alt="ASCII robot flying a jet through bokeh lights" />
 </p>
 
 ## About
