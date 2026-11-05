@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="portrait-dof.svg" width="380" alt="ASCII portrait of Alston" />
+  <img src="portrait-wide.svg" width="640" alt="ASCII portrait of Alston" />
 </p>
 
 ## About
