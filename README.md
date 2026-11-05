@@ -7,41 +7,35 @@
 </div>
 
 <pre>
-               ==+*+----::=**
-            #-----:........:=-*+
-          +++-::-:::........:.::=+*
-        %+*+--:--..:::::..==:.:---+#
-        #==-------:---.::-##=:::.:-+#
-        #=--+#%##**++*++*#***=+=..:-*%
-       @#=-*#**=====++++==-----=-::-+%
-      @*=:*@#*+-:---+*+-:::::--+*-.:+%
-      @#+-%@%#*+===+#%%+===-==+#%=.*
-       %#+@@@%##***%@@%%*+***##%%%+%
-         @@@@%##*+*###*++++****#%@*#
-         %%@%%#*+=++==------=+++*%%
-          @@%##+-==++===-----===*@
-            %##**###+=--==++++=+%
-            %#**####*+++++====+
- @@%@@%##@@@%%*+=+======--::::=#@
-%%%#***++++*=++=::............:=*#@%@@@@@@@@@@
-#####****+--::...............::=#%%%%%%@@@@@@@
-+*#***###%#*+++=::::.::::.::.:+#%%%@%%%*##%@@@
-+*#####**###**++=-----::....:+%%%%%%%%%#*=+@@%
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⢄⠝⡞⡣⠢⠣⠋⡡⠁⢈⠸⡱⠄⠄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣴⠘⡀⡁⢄⠡⠀⠠⠀⠀⠀⠀⠀⠂⠀⠘⠜⢌⠻⡃⠄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡢⡳⡡⠑⠀⢁⢃⠀⠡⢀⠀⡠⠀⠄⠄⠀⠂⢀⠁⠀⢠⠀⢧⠱⣢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡴⡙⣎⣥⡂⠍⠢⢐⠂⠠⠈⠐⢁⠀⠂⠢⠀⠠⡪⣂⠂⠄⠨⠘⠆⠩⠸⠧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⣷⡘⡑⠄⡊⢌⢈⢀⡁⢤⡀⢅⠆⡢⠀⠄⢂⢰⣹⢷⡌⠐⡀⠄⠂⠄⠋⢳⣝⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢰⣧⠣⡈⢪⢸⢮⣿⣳⡽⣬⡪⡕⣜⢎⡇⣗⢵⡳⡮⡝⣎⢇⢇⠇⡀⢀⠁⡒⣪⣟⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣴⢇⢇⠂⡯⡫⡫⡑⡁⠑⠑⠉⡚⢜⢕⢝⢜⠜⠘⠈⠊⠈⠨⢈⢱⢐⠀⢂⢂⣂⣯⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣺⡳⠩⠀⣼⣿⣽⠾⠝⡊⠉⢊⢂⠪⣸⣪⡪⡂⡂⠂⠅⠃⢉⠊⠲⠵⡽⡂⠀⠔⠜⣻⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢓⣧⡧⡂⣿⣿⢷⡷⡷⡵⡰⡡⡢⣪⣞⣷⢷⡅⡆⢕⢡⠢⡢⡪⣪⣾⡯⡆⠀⣴⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠹⠶⢭⣠⣾⣿⣿⢽⣳⢽⢜⡞⡮⡷⣿⣟⡿⣿⡸⢱⡱⡧⣳⢽⣕⡿⣽⣿⡔⠿⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣟⣿⣿⣿⢯⡯⣗⢽⢸⢰⢿⠻⡗⡝⢝⠹⡑⡜⡪⡳⡕⡗⡯⣷⣿⠕⡻⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⡓⣿⣿⡯⣟⡞⡎⡎⢎⠗⢕⡙⡔⡁⡢⡡⢑⠈⠊⢎⢎⢇⢏⢮⢯⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠺⣯⣟⢷⢝⢮⢐⡰⡘⣜⡨⡊⢊⡐⡌⢄⠡⡡⡀⡇⢕⢱⢱⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣯⣯⡫⣇⢧⣳⣻⣳⢣⢊⠢⢊⠔⡅⡇⡣⡱⡱⢱⢱⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⡄⣤⣄⣤⣷⡳⣝⢎⡗⣟⣞⢷⡳⡕⡎⢦⢣⠣⡣⠡⠣⡑⡡⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣠⣤⡤⣶⣾⣿⣻⢝⢿⣿⣿⣿⢹⡿⣔⡑⠕⠕⠜⡈⠪⠢⡃⠣⠡⢁⠂⠅⠅⠂⡑⢷⢦⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡿⣟⡿⣶⣑⠹⠳⡍⣇⠕⠙⠛⠶⠙⠳⠱⠡⠨⠐⠈⠀⠁⠀⠁⠀⠀⠀⠀⢀⠐⢀⢕⢝⢾⢿⡿⣷⣶⣶⣶⣶⣶⣶⣶⣶⣶
+⢯⡳⡯⣞⡻⣳⣵⣬⣪⡱⡡⡡⢀⠐⢀⠀⡀⠀⠀⠀⠀⠀⠀⡀⠠⠀⠐⠈⠀⠐⡀⢔⣿⣻⢯⣯⡿⣞⣯⢿⣿⣿⣿⣿⣾⣿
+⡣⣫⣺⣪⢮⡣⣗⣗⢷⣻⣽⡸⡱⡳⡱⡢⠂⢂⠐⢀⠐⡀⡁⠄⠀⠂⠁⡈⢀⠡⢴⣻⢽⡯⣿⣯⡿⣯⣷⡫⠿⡷⣻⣯⣿⣻
+⡸⣜⢮⣺⢵⣻⡲⡵⡝⣞⢮⡻⣮⣪⢣⢣⡑⠄⢌⢐⢐⢐⠠⠈⢀⠁⠄⠀⢄⢚⣯⢿⡽⣯⡿⣾⣟⡿⣷⢷⣬⣐⠸⣿⣻⣽
 </pre>
 
-```bash
-$ whoami
-alston
-CS @ UC Merced
-DevOps: containers, CI/CD, making deploys boring
+## About
 
-$ cat builds.txt
-I build things end to end:
-real payments, live dashboards, ML on hardware.
+Computer Science major at **UC Merced**, focused on **DevOps**: containers, CI/CD, and making deploys boring.
 
-$ cat hobbies.txt
-video games · manga · comics
-```
+I like building things end to end. A Next.js app with real payments. A Flask dashboard that settles bets live. An ML pipeline that reads a load cell over serial and guesses what's in your grocery bag.
+
+Outside the terminal: video games, manga, and comics.
 
 ## Tech
 
@@ -141,12 +135,6 @@ video games · manga · comics
 | **[course-enrollment-system](https://github.com/A1st0n/course-enrollment-system)** | Full stack enrollment platform with JWT role based auth | React 19 · Flask · Docker |
 | **[Grocery-ML](https://github.com/A1st0n/Grocery-ML)** | Predicts grocery weight from Arduino load cell data, with a C++ inference path | Python · XGBoost · C++ |
 | **[betting-dashboard](https://github.com/A1st0n/betting-dashboard)** | Live sports props dashboard with automatic settlement | Flask · Socket.IO |
-
-## Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=A1st0n&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ## Reach me
 
