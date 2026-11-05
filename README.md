@@ -12,9 +12,11 @@
 
 ## About
 
-Computer Science major at **UC Merced**, focused on **DevOps**: containers, CI/CD, and making deploys boring.
+Computer Science student at **UC Merced** (Dec 2027), focused on **DevOps**: reliable pipelines, reproducible environments, and making deploys boring.
 
-I like building things end to end. A Next.js app with real payments. A Flask dashboard that settles bets live. An ML pipeline that reads a load cell over serial and guesses what's in your grocery bag.
+Lately I've been building AI agent workflows in n8n as an AI Agent Developer extern at **Wayfair**, and I'm a Web Development Fellow with the **Global Career Accelerator**.
+
+I like building things end to end, from ESP32 firmware to React, Docker, Terraform, and AWS. A grocery scanner that guesses what's on the scale. A bot that watches ~450 job boards for me. A creator platform with real payments.
 
 Outside the terminal: video games, manga, and comics.
 
@@ -113,9 +115,13 @@ Outside the terminal: video games, manga, and comics.
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[job-watcher](https://github.com/A1st0n/job-watcher)** | Checks ~450 company job boards every 15 minutes and emails me new internship postings | Python · GitHub Actions |
+| **[Scan2Stock](https://github.com/A1st0n/Grocery-ML)** | Smart inventory scale: load cell + barcode scanner, with an XGBoost model trained on 2,078 grocery products | ESP32 · XGBoost · C++ · Node.js · React |
+| **[Patronage](https://github.com/A1st0n/patreon-clone)** | Creator subscription platform with tiered memberships and member-only content | Next.js 14 · Supabase · Stripe |
 | **[course-enrollment-system](https://github.com/A1st0n/course-enrollment-system)** | Full stack enrollment platform with JWT role based auth | React 19 · Flask · Docker |
-| **[Grocery-ML](https://github.com/A1st0n/Grocery-ML)** | Predicts grocery weight from Arduino load cell data, with a C++ inference path | Python · XGBoost · C++ |
 | **[betting-dashboard](https://github.com/A1st0n/betting-dashboard)** | Live sports props dashboard with automatic settlement | Flask · Socket.IO |
+| **[DermBuddy](https://github.com/A1st0n/DermBuddy)** | Skin tracking app with face scanning and an ingredient scanner that flags parabens, sulfates and fragrance | Swift · AVFoundation · LLM API |
+| **Science Based Lifting** | Real-time lifting form feedback from pose estimation, 30 fps on a laptop webcam | Python · OpenCV · MediaPipe |
 
 ## Reach me
 
